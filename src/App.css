@@ -1,0 +1,17 @@
+@media only screen and (min-width: 1024px) {
+    .container{
+        width: 1024px !important;
+    }
+}
+.textInfo span{
+    font-weight: bold;
+}
+
+.alert {
+    position: fixed;
+    top: 190px;
+    width: 100%;
+    text-align: center;
+    opacity: 0.8;
+    transition: 1s;
+}
